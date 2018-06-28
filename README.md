@@ -1,6 +1,8 @@
 # inventorysystem
 Inventory System
 
+Copy Write @ John Paul Raj M
+
 Purpose of this system:
 
 1. This is developed for our own use. Storing personal username and password and the url.
